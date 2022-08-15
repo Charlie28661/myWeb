@@ -257,7 +257,7 @@ footer h4{
 /*RWD*/
 @media (max-width: 500px) {
     header nav ul{
-        margin-right: 2%;
+        margin-left: 1000px;
     }
 
     .icon{
@@ -276,7 +276,7 @@ footer h4{
     }
 
     .computer h2{
-        font-size: 15px;
+        font-size: 13px;
     }
 
     .game img{
@@ -284,28 +284,24 @@ footer h4{
     }
 
     .game h2{
-        font-size: 15px;
+        font-size: 13px;
     }
 
     .activity img{
         margin-left: 15px;
     }
 
-    /*
     .activity h2{
-        font-size: large;
+        font-size: 13px;
     }
-    */
 
     .learn img{
         margin-right: 15px;
     }
 
-    /*
     #aboutLearn h2{
-        font-size: larger;
+        font-size: 15px;
     }
-    */
 
     .index-first{
         margin-left: 8%;
