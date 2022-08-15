@@ -255,7 +255,7 @@ footer h4{
 }
 
 /*RWD*/
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     header nav ul{
         margin-right: 2%;
     }
